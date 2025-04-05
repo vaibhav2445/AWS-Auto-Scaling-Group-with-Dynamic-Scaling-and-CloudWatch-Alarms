@@ -6,7 +6,7 @@ This project demonstrates how to set up an Auto Scaling Group (ASG) in AWS that 
 ✅ Key Features
 Auto Scaling Group (ASG): Automatically launches or terminates EC2 instances based on CPU usage thresholds.
 
-CloudWatch Alarms: Monitors instance metrics and triggers scaling actions at defined thresholds (e.g., >60% and <30% CPU).
+CloudWatch Alarms: Monitors instance metrics and triggers scaling actions at defined thresholds (e.g., >40% and <28% CPU).
 
 Application Load Balancer (ALB): Distributes incoming traffic evenly across instances for high availability.
 
